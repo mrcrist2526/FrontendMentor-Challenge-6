@@ -1,2 +1,2 @@
-# FrontendMentor-Challenge-6
-Hisdi
+# Subscription details box
+HTML/CSS challenge from FrontEndMentor
